@@ -1,7 +1,0 @@
-connection.diver=org.hsqldb.jdbcDriver
-connection.url=jdbc:hsqldb:file:db/usermanagement
-connection.user=sa
-connection.password=
-
-dao.factory=com.pisarenko.usermanagement.db.DaoFactoryImpl
-dao.com.pisarenko.usermanagement.db.UserDao=com.pisarenko.usermanagement.db.HsqldbUserDao
